@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+基本信息
+姓    名	：屈晶
+民    族	：汉族	
+电    话	：18923741236
+邮    箱：532757066@qq.com	
+住    址：陕西省西安市西咸新区
+出生年月：1993.11
+性    别：女
+籍    贯：陕西咸阳
+毕业院校	：湖南科技学院	
+学    历	：统招本科
 
-You can use the [editor on GitHub](https://github.com/Taecyeon123/Taecyeon123.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+工作经历
+2015.08-2019.01          深圳深之旅国际旅行社有限公司            计调
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+开发技能
+Java基础扎实，熟悉集合，面向对象，对象创建过程，JVM结构。
+掌握Spring，SpringMVC，Mybatis（SSM）框架，SpringBoot框架，快速上手新型框架。
+熟悉Mysql关系型数据库。
+熟悉使用redis AOP缓存实现，搭建redis集群。
+熟悉使用nginx做反向代理、负载均衡。
+熟悉使用dubbo+zookeeper分布式服务框架。
+熟悉linux常用命令，熟悉使用STS做java后端开发。
+了解JavaScript，html5，CSS，ajax，jsonp。
 
-### Markdown
+项目介绍
+购物平台：  
+技术：STS+SpringBoot+MybatisPlus+html5+JavaScript+Mysql+Linux+redis+nginx+dubbo+zookeeper
+项目简介：此系统是综合用品购物平台，实现用户登录、注册，商品管理，在线购买多种多样的用品。
+责任描述：我负责后台管理模块、web模块、单点登录模块、购物车模块、订单模块开发。
+后台管理模块完成了商品增删改查、商品类目名称回显、商品类目树形结构，商品详情增删改查、图片上传回显。Redis缓存AOP实现，搭建redis集群。利用web模块实现了商品信息的展现。利用单点登录模块实现了一次登录可以在多个系统访问。购物车模块实现了把指定的商品放入购物车的功能。订单模块实现了把购物车内的指定商品提交到订单表的功能。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Taecyeon123/Taecyeon123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+办公系统：
+技术：Eclipse+Spring+SpringMVC+Mybatis+html5+JavaScript+tomcat7+Mysql+Shiro
+项目简介：此系统实现企业内部办公自动化，实现日志管理、菜单管理、部门管理、角色管理、用户登录。
+责任描述：我负责日志模块、菜单模块、部门模块、角色模块、用户模块后端开发。
+       日志模块实现日志列表页面，日志的增删改查。菜单模块实现菜单页面呈现，利用treeGrid插件呈现菜单的树形结构，菜单的增删改查。部门模块实现部门页面呈现，部门数据的增删改查。角色模块实现角色页面的呈现，角色添加部分使用zTree插件来实现菜单树型结构展现，角色的增删改查。用户登录模块利用Shiro框架实现用户登录和退出，用户页面的呈现，用户的增删改查。
